@@ -6,9 +6,11 @@ const dc = ["batman","joker","superman"]
 
 // const heros = marvel.concat(dc)
 // console.log(heros)
+// console.log(marvel)
 
 // const newHeros = [...marvel, ...dc]
 // console.log(newHeros)
+// console.log(marvel)
 
 const anotherArr = [1,2,3,4,5, [6,7,8], 9,[6,7,[3,4]]]
 console.log(anotherArr.flat(Infinity))
